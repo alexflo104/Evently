@@ -1,5 +1,11 @@
+body{
+  font-family: Calibri, sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #333;
+}
+
 .cld-main{
-    width: 660px;
+    width: auto;
   }
   .cld-main a{
     color: #03a5c2;
